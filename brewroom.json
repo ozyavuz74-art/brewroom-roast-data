@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p0020270",
+      "name": "Panama Geisha Washed Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Panama Geisha Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- yasemin\n- bergamot\n- tropik meyve\n\nÖnerilen Roast Level: 2.7000\nCC hedefi: 147.0°C\nFC hedefi: 201.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 201,
+      "ccTemp": 147,
+      "dropTemp": 212.1,
+      "dropTime": 459,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.7,
+      "dir": "profiles/Panama_Geisha_Washed_Medium",
+      "files": [
+        "Panama_Geisha_Washed_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Panama_Geisha_Washed_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:42.027Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p0027531",
+      "name": "Panama Geisha Washed Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Panama Geisha Washed kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- yasemin\n- bergamot\n- tropik meyve\n\nÖnerilen Roast Level: 3.0000\nCC hedefi: 147.0°C\nFC hedefi: 201.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 201,
+      "ccTemp": 147,
+      "dropTemp": 214.5,
+      "dropTime": 477,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3,
+      "dir": "profiles/Panama_Geisha_Washed_Sweet",
+      "files": [
+        "Panama_Geisha_Washed_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Panama_Geisha_Washed_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:42.753Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p0034642",
+      "name": "Papua New Guinea Typica Washed L",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Papua New Guinea Typica Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- meyve\n- kakao\n- çiçeksi\n\nÖnerilen Roast Level: 3.0000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 214.5,
+      "dropTime": 468,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3,
+      "dir": "profiles/Papua_New_Guinea_Typica_Washed_L",
+      "files": [
+        "Papua_New_Guinea_Typica_Washed_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Papua_New_Guinea_Typica_Washed_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:43.464Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p0042253",
+      "name": "Papua New Guinea Typica Washed M",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Papua New Guinea Typica Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- meyve\n- kakao\n- çiçeksi\n\nÖnerilen Roast Level: 3.3000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 217.3,
+      "dropTime": 475,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.3,
+      "dir": "profiles/Papua_New_Guinea_Typica_Washed_M",
+      "files": [
+        "Papua_New_Guinea_Typica_Washed_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Papua_New_Guinea_Typica_Washed_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:44.225Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p0049944",
+      "name": "Papua New Guinea Typica Washed S",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Papua New Guinea Typica Washed kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- meyve\n- kakao\n- çiçeksi\n\nÖnerilen Roast Level: 3.6000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 220,
+      "dropTime": 495,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.6,
+      "dir": "profiles/Papua_New_Guinea_Typica_Washed_S",
+      "files": [
+        "Papua_New_Guinea_Typica_Washed_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Papua_New_Guinea_Typica_Washed_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:44.994Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p9963790",
       "name": "Mexico Typica Washed Sweet",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Mexico Typica Washed kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- fındık\n- kakao\n- hafif meyve\n\nÖnerilen Roast Level: 3.5000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
