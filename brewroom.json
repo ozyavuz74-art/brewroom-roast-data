@@ -51,6 +51,86 @@
   ],
   "profiles": [
     {
+      "id": "p0137190",
+      "name": "Sulawesi Toraja Wet Hulled Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Sulawesi Toraja Wet Hulled kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- baharat\n- çikolata\n- odunsu tatlılık\n\nÖnerilen Roast Level: 4.1000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 225.2,
+      "dropTime": 530,
+      "_dropTimeV": 2,
+      "recommendedLevel": 4.1,
+      "dir": "profiles/Sulawesi_Toraja_Wet_Hulled_Sweet",
+      "files": [
+        "Sulawesi_Toraja_Wet_Hulled_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Sulawesi_Toraja_Wet_Hulled_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:53.719Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p0146281",
+      "name": "Sumatra Typica Wet Hulled Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Sumatra Typica Wet Hulled kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- baharat\n- bitter çikolata\n- topraksı\n\nÖnerilen Roast Level: 3.5000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 219.8,
+      "dropTime": 479,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.5,
+      "dir": "profiles/Sumatra_Typica_Wet_Hulled_Light",
+      "files": [
+        "Sumatra_Typica_Wet_Hulled_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Sumatra_Typica_Wet_Hulled_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:54.628Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p0152952",
+      "name": "Sumatra Typica Wet Hulled Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Sumatra Typica Wet Hulled kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- baharat\n- bitter çikolata\n- topraksı\n\nÖnerilen Roast Level: 3.8000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 222.5,
+      "dropTime": 505,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.8,
+      "dir": "profiles/Sumatra_Typica_Wet_Hulled_Medium",
+      "files": [
+        "Sumatra_Typica_Wet_Hulled_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Sumatra_Typica_Wet_Hulled_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:55.295Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p0159993",
+      "name": "Sumatra Typica Wet Hulled Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Sumatra Typica Wet Hulled kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- baharat\n- bitter çikolata\n- topraksı\n\nÖnerilen Roast Level: 4.1000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 225.2,
+      "dropTime": 525,
+      "_dropTimeV": 2,
+      "recommendedLevel": 4.1,
+      "dir": "profiles/Sumatra_Typica_Wet_Hulled_Sweet",
+      "files": [
+        "Sumatra_Typica_Wet_Hulled_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Sumatra_Typica_Wet_Hulled_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:55.999Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p0077320",
       "name": "Peru Caturra Washed Light",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Peru Caturra Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- karamel\n- badem\n- narenciye\n\nÖnerilen Roast Level: 2.9000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
