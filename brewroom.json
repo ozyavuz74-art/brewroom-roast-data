@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p9733940",
+      "name": "India Monsooned Malabar Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: India Monsooned Malabar kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- düşük asit\n- baharat\n- yoğun gövde\n\nÖnerilen Roast Level: 3.6000\nCC hedefi: 153.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 153,
+      "dropTemp": 221,
+      "dropTime": 476,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.6,
+      "dir": "profiles/India_Monsooned_Malabar_Light",
+      "files": [
+        "India_Monsooned_Malabar_Light_kpro.kpro"
+      ],
+      "sourceFileName": "India_Monsooned_Malabar_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:13.394Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9740611",
+      "name": "India Monsooned Malabar Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: India Monsooned Malabar kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- düşük asit\n- baharat\n- yoğun gövde\n\nÖnerilen Roast Level: 3.9000\nCC hedefi: 153.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 153,
+      "dropTemp": 223.8,
+      "dropTime": 502,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.9,
+      "dir": "profiles/India_Monsooned_Malabar_Medium",
+      "files": [
+        "India_Monsooned_Malabar_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "India_Monsooned_Malabar_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:14.061Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9747742",
+      "name": "India Monsooned Malabar Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: India Monsooned Malabar kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- düşük asit\n- baharat\n- yoğun gövde\n\nÖnerilen Roast Level: 4.2000\nCC hedefi: 153.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 153,
+      "dropTemp": 226.4,
+      "dropTime": 522,
+      "_dropTimeV": 2,
+      "recommendedLevel": 4.2,
+      "dir": "profiles/India_Monsooned_Malabar_Sweet",
+      "files": [
+        "India_Monsooned_Malabar_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "India_Monsooned_Malabar_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:14.774Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9754253",
+      "name": "Java Typica Wet Hulled Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Java Typica Wet Hulled kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- kakao\n- baharat\n- yoğun gövde\n\nÖnerilen Roast Level: 3.5000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 219.8,
+      "dropTime": 479,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.5,
+      "dir": "profiles/Java_Typica_Wet_Hulled_Light",
+      "files": [
+        "Java_Typica_Wet_Hulled_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Java_Typica_Wet_Hulled_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:15.425Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9762804",
+      "name": "Java Typica Wet Hulled Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Java Typica Wet Hulled kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- kakao\n- baharat\n- yoğun gövde\n\nÖnerilen Roast Level: 3.8000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 222.5,
+      "dropTime": 505,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.8,
+      "dir": "profiles/Java_Typica_Wet_Hulled_Medium",
+      "files": [
+        "Java_Typica_Wet_Hulled_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Java_Typica_Wet_Hulled_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:16.280Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p9679010",
       "name": "Guatemala Antigua Washed Medium",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Guatemala Antigua Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- kakao\n- karamel\n- baharat\n\nÖnerilen Roast Level: 3.3000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
