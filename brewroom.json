@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p9906310",
+      "name": "Kenya SL34 Washed Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Kenya SL34 Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- kırmızı meyve\n- narenciye\n\nÖnerilen Roast Level: 2.6000\nCC hedefi: 148.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 148,
+      "dropTemp": 211.9,
+      "dropTime": 485,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.6,
+      "dir": "profiles/Kenya_SL34_Washed_Light",
+      "files": [
+        "Kenya_SL34_Washed_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Kenya_SL34_Washed_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:30.631Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9914171",
+      "name": "Kenya SL34 Washed Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Kenya SL34 Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- kırmızı meyve\n- narenciye\n\nÖnerilen Roast Level: 2.9000\nCC hedefi: 148.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 148,
+      "dropTemp": 214.4,
+      "dropTime": 472,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.9,
+      "dir": "profiles/Kenya_SL34_Washed_Medium",
+      "files": [
+        "Kenya_SL34_Washed_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Kenya_SL34_Washed_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:31.417Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9921092",
+      "name": "Kenya SL34 Washed Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Kenya SL34 Washed kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- kırmızı meyve\n- narenciye\n\nÖnerilen Roast Level: 3.2000\nCC hedefi: 148.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 148,
+      "dropTemp": 217,
+      "dropTime": 492,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.2,
+      "dir": "profiles/Kenya_SL34_Washed_Sweet",
+      "files": [
+        "Kenya_SL34_Washed_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Kenya_SL34_Washed_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:32.109Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9928253",
+      "name": "Mexico Typica Washed Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Mexico Typica Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- fındık\n- kakao\n- hafif meyve\n\nÖnerilen Roast Level: 2.9000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 214.4,
+      "dropTime": 458,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.9,
+      "dir": "profiles/Mexico_Typica_Washed_Light",
+      "files": [
+        "Mexico_Typica_Washed_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Mexico_Typica_Washed_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:32.825Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9935574",
+      "name": "Mexico Typica Washed Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Mexico Typica Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- fındık\n- kakao\n- hafif meyve\n\nÖnerilen Roast Level: 3.2000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 217,
+      "dropTime": 468,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.2,
+      "dir": "profiles/Mexico_Typica_Washed_Medium",
+      "files": [
+        "Mexico_Typica_Washed_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Mexico_Typica_Washed_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:33.557Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p9847230",
       "name": "Kenya Ruiru 11 Washed Medium",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Kenya Ruiru 11 Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- meyve\n- baharat\n- kakao\n\nÖnerilen Roast Level: 3.0000\nCC hedefi: 149.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
