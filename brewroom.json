@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p8995290",
+      "name": "Brazil Mundo Novo Natural Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Mundo Novo Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- bitter çikolata\n- fındık\n- kakao\n\nÖnerilen Roast Level: 3.7000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 222.3,
+      "dropTime": 498,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.7,
+      "dir": "profiles/Brazil_Mundo_Novo_Natural_Medium",
+      "files": [
+        "Brazil_Mundo_Novo_Natural_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Mundo_Novo_Natural_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:34:59.529Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9002661",
+      "name": "Brazil Mundo Novo Natural Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Mundo Novo Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- bitter çikolata\n- fındık\n- kakao\n\nÖnerilen Roast Level: 4.0000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 225,
+      "dropTime": 519,
+      "_dropTimeV": 2,
+      "recommendedLevel": 4,
+      "dir": "profiles/Brazil_Mundo_Novo_Natural_Sweet",
+      "files": [
+        "Brazil_Mundo_Novo_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Mundo_Novo_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:00.266Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9009842",
+      "name": "Brazil Obata Natural Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Obata Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- bitter çikolata\n- fındık\n- kakao\n\nÖnerilen Roast Level: 3.5000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 219.8,
+      "dropTime": 475,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.5,
+      "dir": "profiles/Brazil_Obata_Natural_Light",
+      "files": [
+        "Brazil_Obata_Natural_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Obata_Natural_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:00.984Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9017703",
+      "name": "Brazil Obata Natural Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Obata Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- bitter çikolata\n- fındık\n- kakao\n\nÖnerilen Roast Level: 3.8000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 222.5,
+      "dropTime": 500,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.8,
+      "dir": "profiles/Brazil_Obata_Natural_Medium",
+      "files": [
+        "Brazil_Obata_Natural_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Obata_Natural_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:01.770Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9024944",
+      "name": "Brazil Obata Natural Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Obata Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- bitter çikolata\n- fındık\n- kakao\n\nÖnerilen Roast Level: 4.1000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 225.2,
+      "dropTime": 520,
+      "_dropTimeV": 2,
+      "recommendedLevel": 4.1,
+      "dir": "profiles/Brazil_Obata_Natural_Sweet",
+      "files": [
+        "Brazil_Obata_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Obata_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:02.494Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p8941440",
       "name": "Brazil Arara Natural Sweet",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Arara Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- bal\n- portakal çiçeği\n- sütlü çikolata\n\nÖnerilen Roast Level: 3.8000\nCC hedefi: 151.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
