@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p8941440",
+      "name": "Brazil Arara Natural Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Arara Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- bal\n- portakal çiçeği\n- sütlü çikolata\n\nÖnerilen Roast Level: 3.8000\nCC hedefi: 151.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 151,
+      "dropTemp": 222.5,
+      "dropTime": 505,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.8,
+      "dir": "profiles/Brazil_Arara_Natural_Sweet",
+      "files": [
+        "Brazil_Arara_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Arara_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:34:54.144Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p8948801",
+      "name": "Brazil Catucai Natural Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Catucai Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- fındık\n- kakao\n- karamel\n\nÖnerilen Roast Level: 3.3000\nCC hedefi: 150.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 202,
+      "ccTemp": 150,
+      "dropTemp": 218.3,
+      "dropTime": 456,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.3,
+      "dir": "profiles/Brazil_Catucai_Natural_Light",
+      "files": [
+        "Brazil_Catucai_Natural_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Catucai_Natural_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:34:54.880Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p8956252",
+      "name": "Brazil Catucai Natural Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Catucai Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- fındık\n- kakao\n- karamel\n\nÖnerilen Roast Level: 3.6000\nCC hedefi: 150.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 202,
+      "ccTemp": 150,
+      "dropTemp": 221,
+      "dropTime": 481,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.6,
+      "dir": "profiles/Brazil_Catucai_Natural_Medium",
+      "files": [
+        "Brazil_Catucai_Natural_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Catucai_Natural_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:34:55.625Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p8962993",
+      "name": "Brazil Catucai Natural Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Catucai Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- fındık\n- kakao\n- karamel\n\nÖnerilen Roast Level: 3.9000\nCC hedefi: 150.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 202,
+      "ccTemp": 150,
+      "dropTemp": 223.8,
+      "dropTime": 502,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.9,
+      "dir": "profiles/Brazil_Catucai_Natural_Sweet",
+      "files": [
+        "Brazil_Catucai_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Catucai_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:34:56.299Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p8970004",
+      "name": "Brazil Mundo Novo Natural Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Mundo Novo Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- bitter çikolata\n- fındık\n- kakao\n\nÖnerilen Roast Level: 3.4000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 219.5,
+      "dropTime": 472,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.4,
+      "dir": "profiles/Brazil_Mundo_Novo_Natural_Light",
+      "files": [
+        "Brazil_Mundo_Novo_Natural_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Mundo_Novo_Natural_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:34:57.000Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p8881180",
       "name": "Brazil Acaia Natural Light",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Acaia Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- şeker kamışı\n- karamel\n- badem\n\nÖnerilen Roast Level: 3.3000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
