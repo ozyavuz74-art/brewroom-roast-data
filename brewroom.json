@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p9963790",
+      "name": "Mexico Typica Washed Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Mexico Typica Washed kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- fındık\n- kakao\n- hafif meyve\n\nÖnerilen Roast Level: 3.5000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 219.8,
+      "dropTime": 489,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.5,
+      "dir": "profiles/Mexico_Typica_Washed_Sweet",
+      "files": [
+        "Mexico_Typica_Washed_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Mexico_Typica_Washed_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:36.379Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9971011",
+      "name": "Nicaragua Maracaturra Natural Li",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Nicaragua Maracaturra Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- çikolata\n- kırmızı meyve\n- karamel\n\nÖnerilen Roast Level: 3.1000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 215.8,
+      "dropTime": 466,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.1,
+      "dir": "profiles/Nicaragua_Maracaturra_Natural_Li",
+      "files": [
+        "Nicaragua_Maracaturra_Natural_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Nicaragua_Maracaturra_Natural_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:37.101Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9977502",
+      "name": "Nicaragua Maracaturra Natural Me",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Nicaragua Maracaturra Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- çikolata\n- kırmızı meyve\n- karamel\n\nÖnerilen Roast Level: 3.4000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 218.5,
+      "dropTime": 486,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.4,
+      "dir": "profiles/Nicaragua_Maracaturra_Natural_Me",
+      "files": [
+        "Nicaragua_Maracaturra_Natural_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Nicaragua_Maracaturra_Natural_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:37.750Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9984553",
+      "name": "Nicaragua Maracaturra Natural Sw",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Nicaragua Maracaturra Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- çikolata\n- kırmızı meyve\n- karamel\n\nÖnerilen Roast Level: 3.7000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 221.3,
+      "dropTime": 508,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.7,
+      "dir": "profiles/Nicaragua_Maracaturra_Natural_Sw",
+      "files": [
+        "Nicaragua_Maracaturra_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Nicaragua_Maracaturra_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:38.455Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9991664",
+      "name": "Panama Geisha Washed Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Panama Geisha Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- yasemin\n- bergamot\n- tropik meyve\n\nÖnerilen Roast Level: 2.4000\nCC hedefi: 147.0°C\nFC hedefi: 201.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 201,
+      "ccTemp": 147,
+      "dropTemp": 209.6,
+      "dropTime": 485,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.4,
+      "dir": "profiles/Panama_Geisha_Washed_Light",
+      "files": [
+        "Panama_Geisha_Washed_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Panama_Geisha_Washed_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:39.166Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p9906310",
       "name": "Kenya SL34 Washed Light",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Kenya SL34 Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- kırmızı meyve\n- narenciye\n\nÖnerilen Roast Level: 2.6000\nCC hedefi: 148.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
