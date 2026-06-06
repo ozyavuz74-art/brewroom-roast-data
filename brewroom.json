@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p9500880",
+      "name": "Ethiopia Guji Natural Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Ethiopia Guji Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- çilek\n- tropik meyve\n- kakao\n\nÖnerilen Roast Level: 3.0000\nCC hedefi: 147.0°C\nFC hedefi: 200.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 200,
+      "ccTemp": 147,
+      "dropTemp": 214.5,
+      "dropTime": 468,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3,
+      "dir": "profiles/Ethiopia_Guji_Natural_Medium",
+      "files": [
+        "Ethiopia_Guji_Natural_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Ethiopia_Guji_Natural_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:50.088Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9507711",
+      "name": "Ethiopia Guji Natural Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Ethiopia Guji Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- çilek\n- tropik meyve\n- kakao\n\nÖnerilen Roast Level: 3.3000\nCC hedefi: 147.0°C\nFC hedefi: 200.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 200,
+      "ccTemp": 147,
+      "dropTemp": 217.3,
+      "dropTime": 489,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.3,
+      "dir": "profiles/Ethiopia_Guji_Natural_Sweet",
+      "files": [
+        "Ethiopia_Guji_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Ethiopia_Guji_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:50.771Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9516882",
+      "name": "Ethiopia Heirloom Natural Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Ethiopia Heirloom Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- yaban mersini\n- çilek\n- şarapımsı tatlılık\n\nÖnerilen Roast Level: 2.7000\nCC hedefi: 147.0°C\nFC hedefi: 200.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 200,
+      "ccTemp": 147,
+      "dropTemp": 212.1,
+      "dropTime": 468,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.7,
+      "dir": "profiles/Ethiopia_Heirloom_Natural_Light",
+      "files": [
+        "Ethiopia_Heirloom_Natural_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Ethiopia_Heirloom_Natural_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:51.688Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9524253",
+      "name": "Ethiopia Heirloom Natural Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Ethiopia Heirloom Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- yaban mersini\n- çilek\n- şarapımsı tatlılık\n\nÖnerilen Roast Level: 3.0000\nCC hedefi: 147.0°C\nFC hedefi: 200.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 200,
+      "ccTemp": 147,
+      "dropTemp": 214.5,
+      "dropTime": 468,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3,
+      "dir": "profiles/Ethiopia_Heirloom_Natural_Medium",
+      "files": [
+        "Ethiopia_Heirloom_Natural_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Ethiopia_Heirloom_Natural_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:52.425Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9531514",
+      "name": "Ethiopia Heirloom Natural Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Ethiopia Heirloom Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- yaban mersini\n- çilek\n- şarapımsı tatlılık\n\nÖnerilen Roast Level: 3.3000\nCC hedefi: 147.0°C\nFC hedefi: 200.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 200,
+      "ccTemp": 147,
+      "dropTemp": 217.3,
+      "dropTime": 489,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.3,
+      "dir": "profiles/Ethiopia_Heirloom_Natural_Sweet",
+      "files": [
+        "Ethiopia_Heirloom_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Ethiopia_Heirloom_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:53.151Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p9441770",
       "name": "Costa Rica Caturra Honey Sweet",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Costa Rica Caturra Honey kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- bal\n- portakal\n- şeker kamışı\n\nÖnerilen Roast Level: 3.5000\nCC hedefi: 149.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
