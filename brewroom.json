@@ -51,26 +51,6 @@
   ],
   "profiles": [
     {
-      "id": "p1840600",
-      "name": "Brazil Acaia Natural Light",
-      "description": "Generated Kaffelogic Brewroom espresso profile.\n\nCoffee: Brazil Acaia Natural\nVariant: Light (daha canlı, daha az koyu espresso)\nTargets:\n- Start: 26°C\n- CC: 2:50 @ 152°C\n- FC: 6:20 @ 204°C\n- Drop: 7:40 @ 217°C\n- RoR decline interval: 4:20–7:10\n- Fan: 14700 rpm → 14300 rpm\n- Taste target: şeker kamışı, karamel, badem\n\nNote: Brewroom import starter profile; cup result must be adjusted by Roast Level.",
-      "designer": "Curve Generator v1",
-      "fcTemp": 204,
-      "ccTemp": 152,
-      "dropTemp": 218.3,
-      "dropTime": 471,
-      "_dropTimeV": 2,
-      "recommendedLevel": 3.3,
-      "dir": "profiles/Brazil_Acaia_Natural_Light",
-      "files": [
-        "Brazil_Acaia_Natural_Light_kpro.kpro"
-      ],
-      "sourceFileName": "Brazil_Acaia_Natural_Light_kpro.kpro",
-      "uploadedAt": "2026-06-06T18:06:24.060Z",
-      "notes": "",
-      "tag": ""
-    },
-    {
       "id": "p5122030",
       "name": "Brazil Catuai",
       "description": "",
