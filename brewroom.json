@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p9272180",
+      "name": "Colombia Castillo Natural Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Castillo Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- karamel\n- kırmızı meyve\n- sütlü çikolata\n\nÖnerilen Roast Level: 3.7000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 221.3,
+      "dropTime": 498,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.7,
+      "dir": "profiles/Colombia_Castillo_Natural_Sweet",
+      "files": [
+        "Colombia_Castillo_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Castillo_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:27.218Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9279131",
+      "name": "Colombia Caturra Washed Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Caturra Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- portakal\n- karamel\n- kakao\n\nÖnerilen Roast Level: 2.9000\nCC hedefi: 149.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 149,
+      "dropTemp": 214.4,
+      "dropTime": 462,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.9,
+      "dir": "profiles/Colombia_Caturra_Washed_Light",
+      "files": [
+        "Colombia_Caturra_Washed_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Caturra_Washed_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:27.913Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9285802",
+      "name": "Colombia Caturra Washed Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Caturra Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- portakal\n- karamel\n- kakao\n\nÖnerilen Roast Level: 3.2000\nCC hedefi: 149.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 149,
+      "dropTemp": 217,
+      "dropTime": 463,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.2,
+      "dir": "profiles/Colombia_Caturra_Washed_Medium",
+      "files": [
+        "Colombia_Caturra_Washed_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Caturra_Washed_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:28.580Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9293073",
+      "name": "Colombia Caturra Washed Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Caturra Washed kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- portakal\n- karamel\n- kakao\n\nÖnerilen Roast Level: 3.5000\nCC hedefi: 149.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 149,
+      "dropTemp": 219.8,
+      "dropTime": 484,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.5,
+      "dir": "profiles/Colombia_Caturra_Washed_Sweet",
+      "files": [
+        "Colombia_Caturra_Washed_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Caturra_Washed_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:29.307Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9300874",
+      "name": "Colombia Gesha Washed Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Gesha Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- yasemin\n- bergamot\n- narenciye\n\nÖnerilen Roast Level: 2.5000\nCC hedefi: 148.0°C\nFC hedefi: 201.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 201,
+      "ccTemp": 148,
+      "dropTemp": 210.8,
+      "dropTime": 479,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.5,
+      "dir": "profiles/Colombia_Gesha_Washed_Light",
+      "files": [
+        "Colombia_Gesha_Washed_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Gesha_Washed_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:30.087Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p9216330",
       "name": "Colombia Bourbon Washed Light",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Bourbon Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- karamel\n- kırmızı meyve\n- çikolata\n\nÖnerilen Roast Level: 2.9000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
