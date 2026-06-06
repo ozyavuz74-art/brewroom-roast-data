@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p9679010",
+      "name": "Guatemala Antigua Washed Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Guatemala Antigua Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- kakao\n- karamel\n- baharat\n\nÖnerilen Roast Level: 3.3000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 217.3,
+      "dropTime": 475,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.3,
+      "dir": "profiles/Guatemala_Antigua_Washed_Medium",
+      "files": [
+        "Guatemala_Antigua_Washed_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Guatemala_Antigua_Washed_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:07.901Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9686111",
+      "name": "Guatemala Antigua Washed Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Guatemala Antigua Washed kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- kakao\n- karamel\n- baharat\n\nÖnerilen Roast Level: 3.6000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 220,
+      "dropTime": 495,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.6,
+      "dir": "profiles/Guatemala_Antigua_Washed_Sweet",
+      "files": [
+        "Guatemala_Antigua_Washed_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Guatemala_Antigua_Washed_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:08.611Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9693032",
+      "name": "Honduras Bourbon Natural Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Honduras Bourbon Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- çikolata\n- karamel\n- kuru meyve\n\nÖnerilen Roast Level: 3.1000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 215.8,
+      "dropTime": 461,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.1,
+      "dir": "profiles/Honduras_Bourbon_Natural_Light",
+      "files": [
+        "Honduras_Bourbon_Natural_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Honduras_Bourbon_Natural_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:09.303Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9700123",
+      "name": "Honduras Bourbon Natural Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Honduras Bourbon Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- çikolata\n- karamel\n- kuru meyve\n\nÖnerilen Roast Level: 3.4000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 218.5,
+      "dropTime": 482,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.4,
+      "dir": "profiles/Honduras_Bourbon_Natural_Medium",
+      "files": [
+        "Honduras_Bourbon_Natural_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Honduras_Bourbon_Natural_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:10.012Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9706934",
+      "name": "Honduras Bourbon Natural Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Honduras Bourbon Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- çikolata\n- karamel\n- kuru meyve\n\nÖnerilen Roast Level: 3.7000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 221.3,
+      "dropTime": 503,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.7,
+      "dir": "profiles/Honduras_Bourbon_Natural_Sweet",
+      "files": [
+        "Honduras_Bourbon_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Honduras_Bourbon_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:10.693Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p9620990",
       "name": "Ethiopia Sidamo Natural Sweet",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Ethiopia Sidamo Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- meyve\n- kakao\n- tatlılık\n\nÖnerilen Roast Level: 3.3000\nCC hedefi: 147.0°C\nFC hedefi: 200.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
