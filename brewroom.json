@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p9791650",
+      "name": "Java Typica Wet Hulled Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Java Typica Wet Hulled kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- kakao\n- baharat\n- yoğun gövde\n\nÖnerilen Roast Level: 4.1000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 225.2,
+      "dropTime": 525,
+      "_dropTimeV": 2,
+      "recommendedLevel": 4.1,
+      "dir": "profiles/Java_Typica_Wet_Hulled_Sweet",
+      "files": [
+        "Java_Typica_Wet_Hulled_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Java_Typica_Wet_Hulled_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:19.165Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9798121",
+      "name": "Kenya Batian Washed Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Kenya Batian Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- frenk üzümü\n- kakao\n\nÖnerilen Roast Level: 2.7000\nCC hedefi: 149.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 149,
+      "dropTemp": 213.1,
+      "dropTime": 478,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.7,
+      "dir": "profiles/Kenya_Batian_Washed_Light",
+      "files": [
+        "Kenya_Batian_Washed_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Kenya_Batian_Washed_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:19.812Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9804962",
+      "name": "Kenya Batian Washed Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Kenya Batian Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- frenk üzümü\n- kakao\n\nÖnerilen Roast Level: 3.0000\nCC hedefi: 149.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 149,
+      "dropTemp": 215.5,
+      "dropTime": 473,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3,
+      "dir": "profiles/Kenya_Batian_Washed_Medium",
+      "files": [
+        "Kenya_Batian_Washed_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Kenya_Batian_Washed_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:20.496Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9811683",
+      "name": "Kenya Batian Washed Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Kenya Batian Washed kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- frenk üzümü\n- kakao\n\nÖnerilen Roast Level: 3.3000\nCC hedefi: 149.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 149,
+      "dropTemp": 218.3,
+      "dropTime": 494,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.3,
+      "dir": "profiles/Kenya_Batian_Washed_Sweet",
+      "files": [
+        "Kenya_Batian_Washed_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Kenya_Batian_Washed_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:21.168Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9818374",
+      "name": "Kenya Ruiru 11 Washed Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Kenya Ruiru 11 Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- meyve\n- baharat\n- kakao\n\nÖnerilen Roast Level: 2.7000\nCC hedefi: 149.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 149,
+      "dropTemp": 213.1,
+      "dropTime": 473,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.7,
+      "dir": "profiles/Kenya_Ruiru_11_Washed_Light",
+      "files": [
+        "Kenya_Ruiru_11_Washed_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Kenya_Ruiru_11_Washed_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:21.837Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p9733940",
       "name": "India Monsooned Malabar Light",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: India Monsooned Malabar kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- düşük asit\n- baharat\n- yoğun gövde\n\nÖnerilen Roast Level: 3.6000\nCC hedefi: 153.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
