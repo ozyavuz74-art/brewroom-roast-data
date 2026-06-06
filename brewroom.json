@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p9216330",
+      "name": "Colombia Bourbon Washed Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Bourbon Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- karamel\n- kırmızı meyve\n- çikolata\n\nÖnerilen Roast Level: 2.9000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 214.4,
+      "dropTime": 462,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.9,
+      "dir": "profiles/Colombia_Bourbon_Washed_Light",
+      "files": [
+        "Colombia_Bourbon_Washed_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Bourbon_Washed_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:21.633Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9224591",
+      "name": "Colombia Bourbon Washed Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Bourbon Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- karamel\n- kırmızı meyve\n- çikolata\n\nÖnerilen Roast Level: 3.2000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 217,
+      "dropTime": 468,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.2,
+      "dir": "profiles/Colombia_Bourbon_Washed_Medium",
+      "files": [
+        "Colombia_Bourbon_Washed_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Bourbon_Washed_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:22.459Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9231142",
+      "name": "Colombia Bourbon Washed Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Bourbon Washed kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- karamel\n- kırmızı meyve\n- çikolata\n\nÖnerilen Roast Level: 3.5000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 219.8,
+      "dropTime": 489,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.5,
+      "dir": "profiles/Colombia_Bourbon_Washed_Sweet",
+      "files": [
+        "Colombia_Bourbon_Washed_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Bourbon_Washed_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:23.114Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9238803",
+      "name": "Colombia Castillo Natural Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Castillo Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- karamel\n- kırmızı meyve\n- sütlü çikolata\n\nÖnerilen Roast Level: 3.1000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 215.8,
+      "dropTime": 457,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.1,
+      "dir": "profiles/Colombia_Castillo_Natural_Light",
+      "files": [
+        "Colombia_Castillo_Natural_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Castillo_Natural_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:23.880Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9246304",
+      "name": "Colombia Castillo Natural Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Castillo Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- karamel\n- kırmızı meyve\n- sütlü çikolata\n\nÖnerilen Roast Level: 3.4000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 218.5,
+      "dropTime": 477,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.4,
+      "dir": "profiles/Colombia_Castillo_Natural_Medium",
+      "files": [
+        "Colombia_Castillo_Natural_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Castillo_Natural_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:24.630Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p9160510",
       "name": "Brazil Yellow Bourbon Natural Me",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Yellow Bourbon Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- bal\n- şeker kamışı\n- karamel\n\nÖnerilen Roast Level: 3.5000\nCC hedefi: 151.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
