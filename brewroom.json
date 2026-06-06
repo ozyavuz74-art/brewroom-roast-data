@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p9441770",
+      "name": "Costa Rica Caturra Honey Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Costa Rica Caturra Honey kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- bal\n- portakal\n- şeker kamışı\n\nÖnerilen Roast Level: 3.5000\nCC hedefi: 149.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 202,
+      "ccTemp": 149,
+      "dropTemp": 218.8,
+      "dropTime": 489,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.5,
+      "dir": "profiles/Costa_Rica_Caturra_Honey_Sweet",
+      "files": [
+        "Costa_Rica_Caturra_Honey_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Costa_Rica_Caturra_Honey_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:44.177Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9448791",
+      "name": "El Salvador Pacamara Natural Lig",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: El Salvador Pacamara Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- tropik meyve\n- kakao\n- bal\n\nÖnerilen Roast Level: 3.0000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 214.5,
+      "dropTime": 472,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3,
+      "dir": "profiles/El_Salvador_Pacamara_Natural_Lig",
+      "files": [
+        "El_Salvador_Pacamara_Natural_Light_kpro.kpro"
+      ],
+      "sourceFileName": "El_Salvador_Pacamara_Natural_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:44.879Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9455932",
+      "name": "El Salvador Pacamara Natural Med",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: El Salvador Pacamara Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- tropik meyve\n- kakao\n- bal\n\nÖnerilen Roast Level: 3.3000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 217.3,
+      "dropTime": 484,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.3,
+      "dir": "profiles/El_Salvador_Pacamara_Natural_Med",
+      "files": [
+        "El_Salvador_Pacamara_Natural_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "El_Salvador_Pacamara_Natural_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:45.593Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9462963",
+      "name": "El Salvador Pacamara Natural Swe",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: El Salvador Pacamara Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- tropik meyve\n- kakao\n- bal\n\nÖnerilen Roast Level: 3.6000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 220,
+      "dropTime": 505,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.6,
+      "dir": "profiles/El_Salvador_Pacamara_Natural_Swe",
+      "files": [
+        "El_Salvador_Pacamara_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "El_Salvador_Pacamara_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:46.296Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9470934",
+      "name": "Ethiopia Guji Natural Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Ethiopia Guji Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- çilek\n- tropik meyve\n- kakao\n\nÖnerilen Roast Level: 2.7000\nCC hedefi: 147.0°C\nFC hedefi: 200.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 200,
+      "ccTemp": 147,
+      "dropTemp": 212.1,
+      "dropTime": 468,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.7,
+      "dir": "profiles/Ethiopia_Guji_Natural_Light",
+      "files": [
+        "Ethiopia_Guji_Natural_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Ethiopia_Guji_Natural_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:47.093Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p9386830",
       "name": "Colombia Typica Washed Light",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Typica Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- karamel\n- badem\n- narenciye\n\nÖnerilen Roast Level: 2.9000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
