@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p0077320",
+      "name": "Peru Caturra Washed Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Peru Caturra Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- karamel\n- badem\n- narenciye\n\nÖnerilen Roast Level: 2.9000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 214.4,
+      "dropTime": 467,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.9,
+      "dir": "profiles/Peru_Caturra_Washed_Light",
+      "files": [
+        "Peru_Caturra_Washed_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Peru_Caturra_Washed_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:47.732Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p0084361",
+      "name": "Peru Caturra Washed Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Peru Caturra Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- karamel\n- badem\n- narenciye\n\nÖnerilen Roast Level: 3.2000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 217,
+      "dropTime": 473,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.2,
+      "dir": "profiles/Peru_Caturra_Washed_Medium",
+      "files": [
+        "Peru_Caturra_Washed_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Peru_Caturra_Washed_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:48.436Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p0091362",
+      "name": "Peru Caturra Washed Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Peru Caturra Washed kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- karamel\n- badem\n- narenciye\n\nÖnerilen Roast Level: 3.5000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 219.8,
+      "dropTime": 494,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.5,
+      "dir": "profiles/Peru_Caturra_Washed_Sweet",
+      "files": [
+        "Peru_Caturra_Washed_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Peru_Caturra_Washed_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:49.136Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p0098763",
+      "name": "Sulawesi Toraja Wet Hulled Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Sulawesi Toraja Wet Hulled kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- baharat\n- çikolata\n- odunsu tatlılık\n\nÖnerilen Roast Level: 3.5000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 219.8,
+      "dropTime": 484,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.5,
+      "dir": "profiles/Sulawesi_Toraja_Wet_Hulled_Light",
+      "files": [
+        "Sulawesi_Toraja_Wet_Hulled_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Sulawesi_Toraja_Wet_Hulled_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:49.876Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p0106314",
+      "name": "Sulawesi Toraja Wet Hulled Mediu",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Sulawesi Toraja Wet Hulled kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- baharat\n- çikolata\n- odunsu tatlılık\n\nÖnerilen Roast Level: 3.8000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 204,
+      "ccTemp": 152,
+      "dropTemp": 222.5,
+      "dropTime": 509,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.8,
+      "dir": "profiles/Sulawesi_Toraja_Wet_Hulled_Mediu",
+      "files": [
+        "Sulawesi_Toraja_Wet_Hulled_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Sulawesi_Toraja_Wet_Hulled_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:50.631Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p0020270",
       "name": "Panama Geisha Washed Medium",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Panama Geisha Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- yasemin\n- bergamot\n- tropik meyve\n\nÖnerilen Roast Level: 2.7000\nCC hedefi: 147.0°C\nFC hedefi: 201.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
