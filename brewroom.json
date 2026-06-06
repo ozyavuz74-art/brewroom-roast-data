@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p9330220",
+      "name": "Colombia Gesha Washed Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Gesha Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- yasemin\n- bergamot\n- narenciye\n\nÖnerilen Roast Level: 2.8000\nCC hedefi: 148.0°C\nFC hedefi: 201.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 201,
+      "ccTemp": 148,
+      "dropTemp": 213.2,
+      "dropTime": 456,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.8,
+      "dir": "profiles/Colombia_Gesha_Washed_Medium",
+      "files": [
+        "Colombia_Gesha_Washed_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Gesha_Washed_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:33.022Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9337481",
+      "name": "Colombia Gesha Washed Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Gesha Washed kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- yasemin\n- bergamot\n- narenciye\n\nÖnerilen Roast Level: 3.1000\nCC hedefi: 148.0°C\nFC hedefi: 201.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 201,
+      "ccTemp": 148,
+      "dropTemp": 215.8,
+      "dropTime": 475,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.1,
+      "dir": "profiles/Colombia_Gesha_Washed_Sweet",
+      "files": [
+        "Colombia_Gesha_Washed_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Gesha_Washed_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:33.748Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9344382",
+      "name": "Colombia Pink Bourbon Washed Lig",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Pink Bourbon Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- çiçeksi\n- tropik meyve\n- bal\n\nÖnerilen Roast Level: 2.7000\nCC hedefi: 148.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 202,
+      "ccTemp": 148,
+      "dropTemp": 212.1,
+      "dropTime": 473,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.7,
+      "dir": "profiles/Colombia_Pink_Bourbon_Washed_Lig",
+      "files": [
+        "Colombia_Pink_Bourbon_Washed_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Pink_Bourbon_Washed_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:34.438Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9351343",
+      "name": "Colombia Pink Bourbon Washed Med",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Pink Bourbon Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- çiçeksi\n- tropik meyve\n- bal\n\nÖnerilen Roast Level: 3.0000\nCC hedefi: 148.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 202,
+      "ccTemp": 148,
+      "dropTemp": 214.5,
+      "dropTime": 454,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3,
+      "dir": "profiles/Colombia_Pink_Bourbon_Washed_Med",
+      "files": [
+        "Colombia_Pink_Bourbon_Washed_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Pink_Bourbon_Washed_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:35.134Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9359244",
+      "name": "Colombia Pink Bourbon Washed Swe",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Pink Bourbon Washed kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- çiçeksi\n- tropik meyve\n- bal\n\nÖnerilen Roast Level: 3.3000\nCC hedefi: 148.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 202,
+      "ccTemp": 148,
+      "dropTemp": 217.3,
+      "dropTime": 475,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.3,
+      "dir": "profiles/Colombia_Pink_Bourbon_Washed_Swe",
+      "files": [
+        "Colombia_Pink_Bourbon_Washed_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Colombia_Pink_Bourbon_Washed_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:35.924Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p9272180",
       "name": "Colombia Castillo Natural Sweet",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Colombia Castillo Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- karamel\n- kırmızı meyve\n- sütlü çikolata\n\nÖnerilen Roast Level: 3.7000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
