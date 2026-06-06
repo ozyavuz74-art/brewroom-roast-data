@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p9050370",
+      "name": "Brazil Red Bourbon Natural Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Red Bourbon Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- üzüm\n- karamel\n- kakao\n\nÖnerilen Roast Level: 3.1000\nCC hedefi: 151.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 151,
+      "dropTemp": 215.8,
+      "dropTime": 461,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.1,
+      "dir": "profiles/Brazil_Red_Bourbon_Natural_Light",
+      "files": [
+        "Brazil_Red_Bourbon_Natural_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Red_Bourbon_Natural_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:05.037Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9057941",
+      "name": "Brazil Red Bourbon Natural Mediu",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Red Bourbon Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- üzüm\n- karamel\n- kakao\n\nÖnerilen Roast Level: 3.4000\nCC hedefi: 151.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 151,
+      "dropTemp": 218.5,
+      "dropTime": 486,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.4,
+      "dir": "profiles/Brazil_Red_Bourbon_Natural_Mediu",
+      "files": [
+        "Brazil_Red_Bourbon_Natural_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Red_Bourbon_Natural_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:05.794Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9065302",
+      "name": "Brazil Red Bourbon Natural Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Red Bourbon Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- üzüm\n- karamel\n- kakao\n\nÖnerilen Roast Level: 3.7000\nCC hedefi: 151.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 151,
+      "dropTemp": 221.3,
+      "dropTime": 508,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.7,
+      "dir": "profiles/Brazil_Red_Bourbon_Natural_Sweet",
+      "files": [
+        "Brazil_Red_Bourbon_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Red_Bourbon_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:06.530Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9073543",
+      "name": "Brazil Red Catuai Natural Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Red Catuai Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- kırmızı meyve\n- karamel\n- çikolata\n\nÖnerilen Roast Level: 3.1000\nCC hedefi: 150.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 202,
+      "ccTemp": 150,
+      "dropTemp": 215.8,
+      "dropTime": 452,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.1,
+      "dir": "profiles/Brazil_Red_Catuai_Natural_Light",
+      "files": [
+        "Brazil_Red_Catuai_Natural_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Red_Catuai_Natural_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:07.354Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9080834",
+      "name": "Brazil Red Catuai Natural Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Red Catuai Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- kırmızı meyve\n- karamel\n- çikolata\n\nÖnerilen Roast Level: 3.4000\nCC hedefi: 150.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 202,
+      "ccTemp": 150,
+      "dropTemp": 218.5,
+      "dropTime": 477,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.4,
+      "dir": "profiles/Brazil_Red_Catuai_Natural_Medium",
+      "files": [
+        "Brazil_Red_Catuai_Natural_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Red_Catuai_Natural_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:08.083Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p8995290",
       "name": "Brazil Mundo Novo Natural Medium",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Mundo Novo Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- bitter çikolata\n- fındık\n- kakao\n\nÖnerilen Roast Level: 3.7000\nCC hedefi: 152.0°C\nFC hedefi: 204.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
