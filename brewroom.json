@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p9106060",
+      "name": "Brazil Red Catuai Natural Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Red Catuai Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- kırmızı meyve\n- karamel\n- çikolata\n\nÖnerilen Roast Level: 3.7000\nCC hedefi: 150.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 202,
+      "ccTemp": 150,
+      "dropTemp": 221.3,
+      "dropTime": 498,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.7,
+      "dir": "profiles/Brazil_Red_Catuai_Natural_Sweet",
+      "files": [
+        "Brazil_Red_Catuai_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Red_Catuai_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:10.606Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9113611",
+      "name": "Brazil Topazio Natural Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Topazio Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- bal\n- karamel\n- sarı meyve\n\nÖnerilen Roast Level: 3.2000\nCC hedefi: 150.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 202,
+      "ccTemp": 150,
+      "dropTemp": 217,
+      "dropTime": 454,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.2,
+      "dir": "profiles/Brazil_Topazio_Natural_Light",
+      "files": [
+        "Brazil_Topazio_Natural_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Topazio_Natural_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:11.361Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9121192",
+      "name": "Brazil Topazio Natural Medium",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Topazio Natural kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- bal\n- karamel\n- sarı meyve\n\nÖnerilen Roast Level: 3.5000\nCC hedefi: 150.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 202,
+      "ccTemp": 150,
+      "dropTemp": 219.8,
+      "dropTime": 479,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.5,
+      "dir": "profiles/Brazil_Topazio_Natural_Medium",
+      "files": [
+        "Brazil_Topazio_Natural_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Topazio_Natural_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:12.119Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9128353",
+      "name": "Brazil Topazio Natural Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Topazio Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- bal\n- karamel\n- sarı meyve\n\nÖnerilen Roast Level: 3.8000\nCC hedefi: 150.0°C\nFC hedefi: 202.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 202,
+      "ccTemp": 150,
+      "dropTemp": 222.5,
+      "dropTime": 500,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.8,
+      "dir": "profiles/Brazil_Topazio_Natural_Sweet",
+      "files": [
+        "Brazil_Topazio_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Topazio_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:12.835Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9135504",
+      "name": "Brazil Yellow Bourbon Natural Li",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Yellow Bourbon Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- bal\n- şeker kamışı\n- karamel\n\nÖnerilen Roast Level: 3.2000\nCC hedefi: 151.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 151,
+      "dropTemp": 217,
+      "dropTime": 458,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.2,
+      "dir": "profiles/Brazil_Yellow_Bourbon_Natural_Li",
+      "files": [
+        "Brazil_Yellow_Bourbon_Natural_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Brazil_Yellow_Bourbon_Natural_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:35:13.550Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p9050370",
       "name": "Brazil Red Bourbon Natural Light",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Brazil Red Bourbon Natural kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- üzüm\n- karamel\n- kakao\n\nÖnerilen Roast Level: 3.1000\nCC hedefi: 151.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
