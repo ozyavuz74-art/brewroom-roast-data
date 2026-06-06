@@ -51,6 +51,106 @@
   ],
   "profiles": [
     {
+      "id": "p9620990",
+      "name": "Ethiopia Sidamo Natural Sweet",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Ethiopia Sidamo Natural kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- meyve\n- kakao\n- tatlılık\n\nÖnerilen Roast Level: 3.3000\nCC hedefi: 147.0°C\nFC hedefi: 200.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 200,
+      "ccTemp": 147,
+      "dropTemp": 217.3,
+      "dropTime": 484,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.3,
+      "dir": "profiles/Ethiopia_Sidamo_Natural_Sweet",
+      "files": [
+        "Ethiopia_Sidamo_Natural_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Ethiopia_Sidamo_Natural_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:02.099Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9627791",
+      "name": "Ethiopia Yirgacheffe Washed Ligh",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Ethiopia Yirgacheffe Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- çiçeksi\n- limon\n- çay\n\nÖnerilen Roast Level: 2.5000\nCC hedefi: 148.0°C\nFC hedefi: 201.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 201,
+      "ccTemp": 148,
+      "dropTemp": 210.8,
+      "dropTime": 483,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.5,
+      "dir": "profiles/Ethiopia_Yirgacheffe_Washed_Ligh",
+      "files": [
+        "Ethiopia_Yirgacheffe_Washed_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Ethiopia_Yirgacheffe_Washed_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:02.779Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9635342",
+      "name": "Ethiopia Yirgacheffe Washed Medi",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Ethiopia Yirgacheffe Washed kpro\nStil: Espresso Medium\nProfil Amacı: Dengeli espresso başlangıç profili.\n\nBeklenen Tatlar:\n- çiçeksi\n- limon\n- çay\n\nÖnerilen Roast Level: 2.8000\nCC hedefi: 148.0°C\nFC hedefi: 201.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 201,
+      "ccTemp": 148,
+      "dropTemp": 213.2,
+      "dropTime": 456,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2.8,
+      "dir": "profiles/Ethiopia_Yirgacheffe_Washed_Medi",
+      "files": [
+        "Ethiopia_Yirgacheffe_Washed_Medium_kpro.kpro"
+      ],
+      "sourceFileName": "Ethiopia_Yirgacheffe_Washed_Medium_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:03.534Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9641953",
+      "name": "Ethiopia Yirgacheffe Washed Swee",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Ethiopia Yirgacheffe Washed kpro\nStil: Espresso Sweet\nProfil Amacı: Daha tatlı ve daha gövdeli espresso.\n\nBeklenen Tatlar:\n- çiçeksi\n- limon\n- çay\n\nÖnerilen Roast Level: 3.1000\nCC hedefi: 148.0°C\nFC hedefi: 201.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 201,
+      "ccTemp": 148,
+      "dropTemp": 215.8,
+      "dropTime": 475,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3.1,
+      "dir": "profiles/Ethiopia_Yirgacheffe_Washed_Swee",
+      "files": [
+        "Ethiopia_Yirgacheffe_Washed_Sweet_kpro.kpro"
+      ],
+      "sourceFileName": "Ethiopia_Yirgacheffe_Washed_Sweet_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:04.195Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
+      "id": "p9649664",
+      "name": "Guatemala Antigua Washed Light",
+      "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Guatemala Antigua Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- kakao\n- karamel\n- baharat\n\nÖnerilen Roast Level: 3.0000\nCC hedefi: 150.0°C\nFC hedefi: 203.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
+      "designer": "Curve Generator v1",
+      "fcTemp": 203,
+      "ccTemp": 150,
+      "dropTemp": 214.5,
+      "dropTime": 468,
+      "_dropTimeV": 2,
+      "recommendedLevel": 3,
+      "dir": "profiles/Guatemala_Antigua_Washed_Light",
+      "files": [
+        "Guatemala_Antigua_Washed_Light_kpro.kpro"
+      ],
+      "sourceFileName": "Guatemala_Antigua_Washed_Light_kpro.kpro",
+      "uploadedAt": "2026-06-06T18:36:04.966Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p9561710",
       "name": "Ethiopia Heirloom Washed Light",
       "description": "Kaffelogic Brewroom Espresso Profile\n\nKahve: Ethiopia Heirloom Washed kpro\nStil: Espresso Light\nProfil Amacı: Daha canlı, daha az koyu espresso.\n\nBeklenen Tatlar:\n- yasemin\n- çay\n- bergamot\n\nÖnerilen Roast Level: 2.5000\nCC hedefi: 148.0°C\nFC hedefi: 201.0°C\nDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.\n\nSorun Giderme:\n- Ekşi ise Roast Level +0.3\n- Acı ise Roast Level -0.3\n- Gövde az ise Sweet varyantı deneyin\n- Çok koyu ise Light varyantı deneyin",
