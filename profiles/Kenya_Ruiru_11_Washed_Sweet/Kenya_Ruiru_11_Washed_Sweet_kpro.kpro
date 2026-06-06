@@ -1,0 +1,54 @@
+profile_short_name:Kenya Ruiru 11 Washed Sweet
+profile_designer:Curve Generator v1
+profile_description:Kaffelogic Brewroom Espresso ProfileKahve: Kenya Ruiru 11 Washed kproStil: Espresso SweetProfil Amacı: Daha tatlı ve daha gövdeli espresso.Beklenen Tatlar:- meyve- baharat- kakaoÖnerilen Roast Level: 3.3000CC hedefi: 149.0°CFC hedefi: 204.0°CDinlendirme: Brezilya Natural için 5-10 gün; yüksek asitli Afrika kahveleri için 7-14 gün.Sorun Giderme:- Ekşi ise Roast Level +0.3- Acı ise Roast Level -0.3- Gövde az ise Sweet varyantı deneyin- Çok koyu ise Light varyantı deneyin
+profile_schema_version:1.4
+emulation_mode:0.0
+recommended_level:3.3000
+expect_fc:204.0
+expect_colrchange:149.0
+preheat_power:1020.0
+preheat_nominal_temperature:240.0
+preheat_min_power_offset:10.0
+preheat_min_time:20.0
+preheat_max_time:60.0
+preheat_check_gradient_time:30.0
+preheat_target_in_future:30.0
+preheat_mode:5.0
+preheat_end_detection_count:5.0
+preheat_temperature_proximity:8.5
+roast_required_power:1200.0
+roast_min_desired_rate_of_rise:-1.0
+roast_target_in_future:25.0
+roast_use_prediction_method:1.0
+roast_target_timeshift:1.0
+roast_end_by_time_ratio:1.0
+roast_PID_Kp:0.7172
+roast_PID_Ki:0.0
+roast_PID_Kd:3.55
+roast_PID_min_i:0.0
+roast_PID_max_i:0.0
+roast_PID_iLimitApplyAtZero:1.0
+roast_PID_differentialOnError:1.0
+specific_heat_adj_upper_temperature_limit:180.0
+specific_heat_adj_lower_temperature_limit:80.0
+specific_heat_adj_multiplier_Kp:2.1
+specific_heat_adj_multiplier_Kd:4.0
+zone1_time_start:0.0
+zone1_time_end:0.0
+zone1_multiplier_Kp:1.0
+zone1_multiplier_Kd:1.0
+zone1_boost:0.0
+zone2_time_start:0.0
+zone2_time_end:0.0
+zone2_multiplier_Kp:1.0
+zone2_multiplier_Kd:1.0
+zone2_boost:0.0
+corner1_time_start:0.0
+corner1_time_end:0.0
+cooldown_hi_speed:16500.0
+cooldown_lo_speed:15500.0
+cooldown_lo_temperature:100.0
+roast_levels:213.0,214.5,216.0,217.5,220.0,222.0,225.0
+profile_modified:06/06/2026 17:34:27 UTC
+roast_profile:0,26,0,0,10.0002,95.4,511.202,221,75.0101,167.6,521.202,221,541.202,221,531.202,221,0,0
+fan_profile:0,14700,0,0,260,14700,390,14300,280,14300,450,14300,610,14300,587.5,14300,0,0
