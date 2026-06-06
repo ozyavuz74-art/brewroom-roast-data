@@ -97,7 +97,7 @@
       "date": "2026-06-06T14:44",
       "logNumber": 6062026,
       "dir": "roasts/06062026",
-      "beanId": null,
+      "beanId": "b124543411",
       "profileId": "p5122030",
       "files": [
         "Brazil CatuaiLog06062026R2.klog"
@@ -115,9 +115,9 @@
         "rorDescentEnd": "08:34",
         "devPercent": 20
       },
-      "rating": null,
-      "notes": "",
-      "tag": "",
+      "rating": 5,
+      "notes": " GÜN BEKLEYİP EKŞİLİK DENENECEK",
+      "tag": "BRAZIL CATUAI",
       "unit": "C",
       "roastLength": "07:59",
       "curveData": {
@@ -3159,7 +3159,8 @@
       },
       "shareId": null,
       "nlogExtras": null,
-      "_parsedV3": true
+      "_parsedV3": true,
+      "roastWeightGrams": 120
     },
     {
       "id": "r5122030",
