@@ -2476,7 +2476,7 @@
       "date": "2026-06-17T16:30",
       "logNumber": 17062026,
       "dir": "roasts/17062026",
-      "beanId": null,
+      "beanId": "b069991471",
       "profileId": "p4004430",
       "files": [
         "Bresilian Fazerndas DutraLog17062026R3.klog"
@@ -5538,7 +5538,8 @@
       },
       "shareId": null,
       "nlogExtras": null,
-      "_parsedV3": true
+      "_parsedV3": true,
+      "roastWeightGrams": null
     },
     {
       "id": "r0733380",
